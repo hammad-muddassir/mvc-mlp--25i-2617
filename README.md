@@ -24,7 +24,7 @@ Output       Fully Connected    10         Sigmoid
 - Test accuracy evaluation
 
 ## Project Structure
-mvc-mlp-ROLLNO/
+mvc-mlp-25i-2617/
 │
 ├── src/        # Jupyter Notebook
 ├── data/       # mnist.npz
