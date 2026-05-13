@@ -42,7 +42,7 @@ The model is trained on the **MNIST Handwritten Digit Dataset** for multi-class 
 # Project Structure
 
 ```text
-mvc-mlp-25i-2617/
+mvc-mlp--25i-2617/
 │
 ├── src/                          # Source files / implementation
 │   ├── 25i_2617_mvc.ipynb        # Main Jupyter Notebook
@@ -65,7 +65,7 @@ mvc-mlp-25i-2617/
 ## 1. Clone the Repository
 
 ```bash
-git clone <https://github.com/hammad-muddassir/mvc-mlp--25i-2617.git>
+git clone https://github.com/hammad-muddassir/mvc-mlp--25i-2617.git
 cd mvc-mlp-25i-2617
 ```
 
