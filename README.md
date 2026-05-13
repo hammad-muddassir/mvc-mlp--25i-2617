@@ -24,12 +24,23 @@ Output       Fully Connected    10         Sigmoid
 - Test accuracy evaluation
 
 ## Project Structure
+```
 mvc-mlp-25i-2617/
 │
-├── src/        # Jupyter Notebook
-├── data/       # mnist.npz
-├── report/     # PDF report
-├── README.md
+├── src/                          # Source files/implementation
+│   ├── 25i_2617_mvc.ipynb        # Main Jupyter Notebook for training/testing
+│   ├── loss.png                  # Loss Curve Image
+│   └── predictions.png           # Model's predictions image
+│
+├── data/                         # Dataset files
+│   └── mnist.npz                 # MNIST dataset
+│
+├── report/                       # Project documentation
+│   └── MVC_REPORT_25i_2617_.pdf  # Final PDF report
+│
+└── README.md                     # Project overview and instructions
+```
+
 
 ## How to Run
 
